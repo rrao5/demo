@@ -28,3 +28,7 @@ c. Click on "Run As --> Maven Install"
 d. If you see any compilation errors, click on "Project-->clean"
 e. Repeat steps "b" and "c"
 
+9. Right Click on the project; Run As "Spring Boot App"; This starts the server.
+
+10. To verify - go to "http://localhost:8080/applicants" in your browser.
+
