@@ -92,7 +92,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<start-class>kata.Application</start-class>
+		<start-class>kata.KataConfig</start-class>
 		<java.version>1.7</java.version>
 	</properties>
 
